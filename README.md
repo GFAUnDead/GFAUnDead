@@ -6,7 +6,7 @@
 ![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
 
 ## 📖 About Me
-<img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" />
+<img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" /><br>
 Hi, I'm GFAUnDead, you may call me Lachlan, I'm passionate about streaming and I'd like to be full time on streaming.<br>
 - 🎓 Currently, I'm streaming on Twitch<br>
 - 📆 I am 23<br>

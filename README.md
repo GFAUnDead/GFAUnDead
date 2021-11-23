@@ -6,10 +6,10 @@
 ![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
 
 ## 📖 About Me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" /> </p>
-Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.
-- 🎓 Currently, I'm streaming on Twitch
-- 📆 I am 23
+<img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" />
+Hi, I'm Lachlan, I'm passionate about coding and want to be a self-taught developer.<br>
+- 🎓 Currently, I'm streaming on Twitch<br>
+- 📆 I am 23<br>
 - 🎵 I love EDM & Country music.
 
 ## What Am I Up To?

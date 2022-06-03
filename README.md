@@ -5,7 +5,8 @@
 ![Discord](https://img.shields.io/discord/843394927257976832?color=%237289DA&label=Public&logo=Discord&logoColor=%237289DA&style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
 
-## 📖 About Me <img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" /><br>
+## 📖 About Me <img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" /> <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8D1Y2O) <br><br>
 Hi, I'm GFAUnDead, you may call me Lachlan, I'm passionate about streaming and I'd like to be full time on streaming.<br>
 - 🎓 Currently, I'm streaming on Twitch<br>
 - 📆 I am 24<br>

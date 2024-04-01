@@ -9,7 +9,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8D1Y2O) <br><br>
 Hi, I'm GFAUnDead, you may call me Lachlan, I'm passionate about streaming and I'd like to be full time on streaming.<br>
 - 🎓 Currently, I'm streaming on Twitch<br>
-- 📆 I am 25<br>
+- 📆 I am 26<br>
 - 🎵 I love EDM & Country music.
 
 ## What Am I Up To?

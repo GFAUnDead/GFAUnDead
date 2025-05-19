@@ -22,8 +22,7 @@ Here are some of my social media handles/contacts:<br/>
 [<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/discord.svg" height="40em" align="center" alt="My Discord Server" title="My Discord Server"/>](https://discord.gg/B2GqChHK8k)
 [<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials/twitch.png" height="40em" align="center" alt="My Twitch" title="My Twitch"/>](https://twitch.tv/gfaundead)
 
-
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gfaundead&theme=radical" alt="Trophies" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfaundead&show_icons=true&theme=radical&locale=en" alt="GFAUnDead" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfaundead&show_icons=true&theme=radical&locale=en&langs_count=10&layout=compact" alt="Top Languages" /></p>
 

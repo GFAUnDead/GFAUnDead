@@ -1,11 +1,4 @@
-<!--[<img src="https://raw.githubusercontent.com/lochmurdoch/lochmurdoch/main/socials" alt="Banner" title="Banner"/>](https://gfaundead.com) -->
-
-![Website](https://img.shields.io/website?color=%2300ED00&down_color=%23FA4B32&down_message=gfaundead.stream&logo=Google%20Chrome&logoColor=%2300ED00&style=for-the-badge&up_color=%2300ED00&up_message=gfaundead.stream&url=https%3A%2F%2Fgfaundead.stream)
-![Twitter Follow](https://img.shields.io/twitter/follow/GFAUnDead?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-![Discord](https://img.shields.io/discord/843394927257976832?color=%237289DA&label=Public&logo=Discord&logoColor=%237289DA&style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/gfaundead?color=%239146FF&label=GFAUnDead&logo=Twitch&logoColor=%239146FF&style=for-the-badge)
-
-## 📖 About Me <img src="https://komarev.com/ghpvc/?username=GFAUnDead&label=Profile%20views&color=0e75b6&style=flat" alt="GFAUnDead" /> <br>
+## 📖 About Me <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8D1Y2O) <br><br>
 Hi, I'm GFAUnDead, you may call me Lachlan, I'm passionate about streaming and I'd like to stream full time.<br>
 - 🎓 Currently, I'm streaming on Twitch<br>
@@ -32,6 +25,7 @@ Here are some of my social media handles/contacts:<br/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfaundead&show_icons=true&theme=radical&locale=en" alt="GFAUnDead" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfaundead&show_icons=true&theme=radical&locale=en&langs_count=10&layout=compact" alt="Top Languages" /></p>
 
 ---
 

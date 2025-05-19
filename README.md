@@ -38,7 +38,7 @@ Here are some of my social media handles/contacts:<br/>
 ## 📌 Featured Project: BotOfTheSpecter
 
 <!-- Countdown to project start date -->
-**Days since project started (2023-10-17):**
+**Days since project started (2023-10-17):** <br>
 ![Days Since](https://img.shields.io/date/1697500800?color=purple&label=days%20since%202023-10-17&logo=github&style=for-the-badge)
 
 <!-- Project pin image linking to repo -->

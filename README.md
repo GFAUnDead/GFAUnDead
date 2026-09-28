@@ -14,7 +14,7 @@ Hi, I'm GFAUnDead, you may call me Lachlan, I'm passionate about streaming and I
 ## 🚀 What Am I Up To?
 - 🔭 I'm currently working on my Twitch Streams.
 - 🌱 I'm currently learning the ins and outs of OBS.
-- 🥅 Goals: Reach 500 followers on Twitch.
+- 🥅 Goals: Reach 1,000 followers on Twitch.
 - ⚡ Fun Fact: I love people to ask me lots of questions so I can participate in interesting conversations about a wide variety of topics not just confined to technology.
 
 ---

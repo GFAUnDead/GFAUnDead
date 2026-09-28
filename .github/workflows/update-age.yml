@@ -1,0 +1,35 @@
+name: Update age
+
+on:
+  schedule:
+    # Daily at 14:05 UTC (just after midnight in Sydney)
+    - cron: "5 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Work out current age and update README
+        env:
+          BIRTH_DATE: "19980128"
+        run: |
+          today=$(TZ=Australia/Sydney date +%Y%m%d)
+          age=$(( (today - BIRTH_DATE) / 10000 ))
+          sed -i -E "s|<!--AGE-->[0-9]+<!--/AGE-->|<!--AGE-->${age}<!--/AGE-->|" README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Age unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update age"
+          git push

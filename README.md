@@ -6,7 +6,7 @@
 Hi, I'm GFAUnDead, you may call me Lachlan, I'm passionate about streaming and I'd like to stream full time.
 
 - 📺 Currently, I'm streaming on Twitch
-- 📆 I am 28
+- 📆 I am <!--AGE-->28<!--/AGE-->
 - 🎵 I love EDM & Country music.
 
 ---

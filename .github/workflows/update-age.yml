@@ -2,8 +2,8 @@ name: Update age
 
 on:
   schedule:
-    # Daily at 14:05 UTC (just after midnight in Sydney)
-    - cron: "5 14 * * *"
+    # Once a year, 14:05 UTC on Jan 27 (= 1:05am Jan 28 in Sydney)
+    - cron: "5 14 27 1 *"
   workflow_dispatch:
 
 permissions:
